@@ -1,7 +1,7 @@
 {
   "root": "/solid",
   "port": "8443",
-  "serverUri": "https://solid.thetsui.com:8443/",
+  "serverUri": "https://<<HOSTNAME>>:8443/",
   "webid": true,
   "mount": "/",
   "configPath": "/solid/config",
